@@ -3,7 +3,7 @@
 
 ## Contributors 🌟
 
-Thanks goes to these wonderful people ✨✨:
+Thanks goes to these people ✨:
 <table>
 	<tr>
     <td align="center">
@@ -12,7 +12,7 @@ Thanks goes to these wonderful people ✨✨:
               <sub><b>Aasthajain123</b></sub>
             </a><br/>
             <a href="https://github.com/Jayshah6699/datascience-mashup/commits?author=Aasthajain123">      
-                👑 👀 💬 Author
+                 Author
             </a>
      </td>
     <td align="center">
