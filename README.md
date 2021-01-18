@@ -9,6 +9,22 @@
 ## 🌟 Tech Stacks
 **Python 3.5+**
 
+### 📌Note  
+Feel free to file a new issue with a respective title and description on the **AshTech- AI Personal Voice Assistant**.  If you already found a solution to your problem, I would love to review your pull request! 💚🤎
+
+## :key: Prerequisites
+- You should install python version 3.5+ 
+- import all modules required for the project using this command
+```
+pip install <module name>
+```
+## :handshake: Contribution guidelines 
+Follow these steps to contribute to the project  📝
+- Fork this repository 
+- Select your comfortable issues given in issues feature .
+- Try to solve the mentioned issues and make a pull request by using branch folder 🌿 .
+- Stricly maintain the clear commit name and message.
+- Strictly maintain the decorum of this repository ❤
 
 ## 🧐 Code of Conduct
 Checkout the Code of Conduct
