@@ -21,7 +21,7 @@ backports.weakref==1.0.post1
 bcrypt==3.1.7
 beautifulsoup4==4.9.1
 billiard==3.6.3.0
-bleach==3.1.5
+bleach==3.3.0
 blinker==1.4
 brewer2mpl==1.4.1
 brotlipy==0.7.0
