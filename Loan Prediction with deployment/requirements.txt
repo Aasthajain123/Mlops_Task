@@ -209,7 +209,7 @@ spyder-kernels==1.9.1
 sqlparse==0.4.1
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0
-tensorflow==2.1.0
+tensorflow==2.4.0
 tensorflow-estimator==2.1.0
 tensorflow-gpu==2.2.0
 tensorflow-gpu-estimator==2.2.0
