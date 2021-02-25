@@ -7,7 +7,7 @@
 [![Contributors](https://img.shields.io/github/contributors/Aasthajain123/Mlops_Task?style=for-the-badge)](https://img.shields.io/github/contributors/Aasthajain123/Mlops_Task)
 [![Forks](https://img.shields.io/github/forks/Aasthajain123/Mlops_Task?style=for-the-badge)](https://github.com/Aasthajain123/Mlops_Task/network/members)
 
-## 🌟 Tech Stacks
+## 🌟Tech Stacks
 **Python 3.5+**
 
 ### 📌Note  
