@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 model = LinearRegression()
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
-from sklearn import metrics
+//from sklearn import metrics
 accuracy=metrics.r2_score(y_test,y_pred)
 accuracy=accuracy*100
 print("your accuracy is :",accuracy)
