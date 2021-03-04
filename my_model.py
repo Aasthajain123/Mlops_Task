@@ -1,5 +1,5 @@
 import pandas as pd
-dataset = pd.read_csv('SalaryData.csv')
+//dataset = pd.read_csv('SalaryData.csv')
 y = dataset['Salary']
 x = dataset['YearsExperience']
 X = x.values.reshape(30,1)
