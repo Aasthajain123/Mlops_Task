@@ -1,6 +1,7 @@
 <h1 align = "center"> Contributor Covenant Code of Conduct </h1>
 
-## Our Pledge
+
+## OUR PLEDGE
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
