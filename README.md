@@ -17,7 +17,7 @@ Feel free to file a new issue with a respective title and description on the **A
 - You should install python version 3.5+ 
 - import all modules required for the project using this command
 ```
-pip install <module name>
+pip install -r requirements.txt 
 ```
 ## :handshake: Contribution guidelines 
 Follow these steps to contribute to the project  📝
