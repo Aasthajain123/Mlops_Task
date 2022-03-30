@@ -128,7 +128,7 @@ packaging==20.4
 pandas==1.0.3
 pandas-datareader==0.8.1
 pandocfilters==1.4.2
-paramiko==2.7.1
+paramiko==2.10.1
 parse==1.15.0
 parso==0.5.2
 pathtools==0.1.2
