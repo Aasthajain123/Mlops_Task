@@ -153,7 +153,7 @@ pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyflakes==2.2.0
 pyforest==1.0.2
 Pygments==2.7.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint @ file:///C:/ci/pylint_1592487534522/work
 PyNaCl @ file:///C:/ci/pynacl_1593121837095/work
 pyOpenSSL==19.1.0
