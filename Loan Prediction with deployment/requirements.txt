@@ -227,7 +227,7 @@ traitlets==4.3.3
 tweepy==3.8.0
 twitterscraper==1.4.0
 typed-ast==1.4.1
-ujson==5.2.0
+ujson==5.4.0
 urllib3==1.26.5
 watchdog @ file:///C:/ci/watchdog_1593446515400/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
